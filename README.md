@@ -36,3 +36,4 @@
    - ac_info.txt: Stores user account information.
    - all_tran.txt: Records all transactions.
    - ac.txt: Keeps track of the account numbers
+# Here are some screenshots after compiling and running the program
