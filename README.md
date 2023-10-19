@@ -23,3 +23,6 @@
 
 # Environment Setup
   To run the program, you need to compile the source code using a C compiler. Here are the steps:
+
+  1. Clone this repository:
+       
