@@ -8,4 +8,14 @@
     - View all transaction history with real time.
     - Delete user accounts.
     - Reset the system.
-    - User Account Management
+    - User Account Management.
+ 2. Create a new account
+    - Create an user account.
+ 3. Log in as a user
+    - Deposit money.
+    - Withdraw money.
+    - Transfer money to other accounts.
+    - View account details.
+    - Change the account password.
+ 4. Project Members
+    - Displays information about the project team members.
