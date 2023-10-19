@@ -37,3 +37,12 @@
    - all_tran.txt: Records all transactions.
    - ac.txt: Keeps track of the account numbers
 # Here are some screenshots after compiling and running the program
+![Screenshot 2023-10-19 211754](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/1322c0e9-fc28-491a-99f1-773aac569cd5)
+![Screenshot 2023-10-19 211826](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/55f70c4d-4e33-4665-834a-6f097069ce0d)
+![Screenshot 2023-10-19 212159](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/7b5c5e2f-a7e1-40af-b4f0-11935444d70a)
+![Screenshot 2023-10-19 212215](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/ebb0e094-80a3-4dca-a518-22150e768761)
+![Screenshot 2023-10-19 212231](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/473c8a51-ccd9-4c9e-834b-46233e96e990)
+![Screenshot 2023-10-19 212245](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/972b92b0-3135-4887-a1da-ae055adcefa4)
+![Screenshot 2023-10-19 212310](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/9e4284fb-5de5-4558-ad44-b3646c8c2247)
+![Screenshot 2023-10-19 212332](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/0f38d349-e36a-41c0-9313-c099be1f5e8a)
+![Screenshot 2023-10-19 212643](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/f8ad2bc0-3064-41a7-82d6-96b614722215)
