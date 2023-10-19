@@ -37,3 +37,17 @@
    - all_tran.txt: Records all transactions.
    - ac.txt: Keeps track of the account numbers
 # Here are some screenshots after compiling and running the program
+![pic 1](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/b5f4d270-5a01-44be-8028-985e4d436835)
+![pic 2](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/e7be11d1-3a6a-4699-974a-3b22e342cd01)
+![pic 3](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/31038011-9273-4762-8b8d-1cecb4258561)
+![pic 4](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/bb9aeb96-7a7b-4a49-bc18-e75c015de307)
+![pic 5](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/fd13b53f-cdab-409a-8c90-5a6c1b8441a2)
+![pic 6](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/8f7b6e14-da35-4289-a7ce-104724c324cd)
+![pic 7](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/a47aec41-d7a3-473c-8d80-7281a13e1fdf)
+![pic 8](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/105103d9-34ef-4325-99fa-308a9dac55bb)
+![pic 9](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/b48f8413-1093-4b65-b500-a43e256512cb)
+![pic 10](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/234fe508-f102-43d2-9050-ed55669d15ea)
+![pic 11](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/c59d9e53-403e-4f0a-86c9-6aef3ede379b)
+![pic 12](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/48cc3927-25c8-4bfa-8b83-c1005cd0cbad)
+![pic 13](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/e24c799d-ac31-4d73-9a60-b57dd8c59d79)
+![pic 14](https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/assets/143254107/c62b5d1e-9fca-4c10-bb5d-51fe032ddaf1)
