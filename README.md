@@ -32,3 +32,7 @@
    - If you log in as a user, you can perform various banking operations, including deposit, withdrawal, money transfer, and password change.
    - The "Project Members" option displays information about the developers of this project.
 # File Structure
+   - main.c: The main source code file.
+   - ac_info.txt: Stores user account information.
+   - all_tran.txt: Records all transactions.
+   - ac.txt: Keeps track of the account numbers
