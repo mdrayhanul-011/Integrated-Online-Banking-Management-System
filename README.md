@@ -27,3 +27,9 @@
    2. Clone the repository.
    3. Compile the IOBMS.c file.
    4. Run the compiled program.
+# Usage
+   - When you run the program, you'll be presented with a menu that allows you to choose between administration, creating a new account, or logging in as a user.
+   - If you choose administration, you can log in using the default credentials (username: admin, password: 1234). You can then manage accounts, view transactions, delete any account and also reset the whole system and perform administrative tasks.
+   - If you choose to create a new account, you'll be prompted to enter your name, mobile number, and set a password. An account will be created for you and you get an account number.
+   - If you log in as a user, you can perform various banking operations, including deposit, withdrawal, money transfer, and password change.
+   - The "Project Members" option displays information about the developers of this project.
