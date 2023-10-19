@@ -19,3 +19,5 @@
     - Change the account password.
  4. Project Members
     - Displays information about the project team members.
+
+# Environment Setup
