@@ -23,10 +23,7 @@
 
 # Environment Setup
   To run the program, you need to compile the source code using a C compiler. Here are the steps:
-
-  1. Clone this repository:
-     - git clone https://github.com/mdrayhanul-011/Integrated-Online-Banking-Management-System/blob/main/README.md
-  2. Compile the code:
-     - gcc main.c -i online_banking_management_system
-  3. Run the program:
-     - ./integrated_ online_banking_management_system
+   1. Ensure you have a C compiler installed(e.g. GCC).
+   2. Clone the repository.
+   3. Compile the IOBMS.c file.
+   4. Run the compiled program.
